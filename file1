@@ -4,7 +4,6 @@ class TestForGithub{
     }
     
     public static void rename(){
-    
-    
+       System.out.println("File has changed!");
     }
 }
