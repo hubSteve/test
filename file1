@@ -2,4 +2,9 @@ class TestForGithub{
     public static void main(String[] args){
         System.out.println("Test successfully!");
     }
+    
+    public static void rename(){
+    
+    
+    }
 }
